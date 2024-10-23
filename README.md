@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😊✨ Hi! I'm Thy. Nice to meet you!
+- 🐱‍💻 I love cats and coding.
+- 🌱 I’m currently a Computer Science student 
+- 🔭 I’m currently working on improving my coding skills
